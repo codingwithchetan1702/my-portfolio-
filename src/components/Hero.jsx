@@ -1,5 +1,5 @@
 import React from 'react'
-import profilePic from "../assets/chetan.jpg"
+import profilePic from "../assets/chetan.png"
 
 import {HERO_CONTENT} from "../constants"
 
@@ -9,7 +9,7 @@ function Hero() {
         <div className='flex flex-wrap lg:flex-row-reverse'>
           <div className='w-full lg:w-1/2'>
           <div className='flex justify-center lg:p-8'>
-             <img src={profilePic} alt='Chetan' className='border border-stone-900 rounded-3xl'/>
+             <img src={profilePic} alt='Chetan' className='rounded-3xl'/>
           </div>
           </div>
 
