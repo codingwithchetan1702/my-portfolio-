@@ -9,6 +9,13 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
+  year: "Jun 2025 - Present",
+  role: "AI Data Annotation Specialist",
+  company: "Pixel Annotation",
+  description: `Performed high-quality pixel-level image and data annotation for AI and machine learning models. Followed strict accuracy, consistency, and quality guidelines to meet project standards. Collaborated with remote teams to deliver annotation tasks within defined timelines.`,
+  technologies: ["Image Annotation", "Pixel Annotation", "CVAT", "Label Studio", "Computer Vision", "Quality Assurance"],
+ },
+  {
     year: "2025 - Present",
     role: "Freelance Full Stack Developer",
     company: "Self-Employed",
